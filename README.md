@@ -2,9 +2,9 @@
 Marvel Searcher ( App - Layout )
 
 ### Instalación 🔧
--$ git clone https://github.com/facucanis/marvel.git
--$ npm install 
--$ npm start 
+- git clone https://github.com/facucanis/marvel.git
+- npm install 
+- npm start 
 
 ## Construido con 🛠️
 * [Npm](https://www.npmjs.com/)
